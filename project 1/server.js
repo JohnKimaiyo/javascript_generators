@@ -1,3 +1,0 @@
-function*forever(){
-    let index
-}
