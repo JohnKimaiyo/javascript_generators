@@ -8,3 +8,6 @@ function* forever(){
 let f = forever();
 console.log(f.next());
 console.log(f.next());
+console.log(f.next());
+console.log(f.next());
+console.log(f.next());
