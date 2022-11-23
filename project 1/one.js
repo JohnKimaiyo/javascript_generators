@@ -1,6 +1,6 @@
-function* forever(){
+function* forever() {
     let index = 10;
-    while(true){
+    while (true) {
         yield index++
     }
 }
